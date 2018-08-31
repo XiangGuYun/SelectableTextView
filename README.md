@@ -1,2 +1,4 @@
 # SelectableTextView
-Add custom selection for textview
+Add custom selection for TextView
+
+![](img.png)

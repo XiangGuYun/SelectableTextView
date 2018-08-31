@@ -8,5 +8,5 @@
     <color name="text_gray">#888888</color>
     <color name="text_dark">#454545</color>
     <color name="cursor_handle_color">#0d7aff</color>
-    <color name="selected_blue">#12ff23</color>
+    <color name="selected_blue">#12aa23</color>
 </resources>
